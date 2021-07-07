@@ -7,4 +7,4 @@ STEPS
 1-) Make sure Python has been installed.
 2-) pip install -r requirements.txt (all libraries are imported)
 3-) There is a "photos" folder in our code folder. You can try the code with these photos.
-4-) If you want to use this code for your aim, get some meter photos and change your tax ratio (138-158)
+4-) If you want to use this code for yourself, get some meter photos and change your tax ratio (138-158)
